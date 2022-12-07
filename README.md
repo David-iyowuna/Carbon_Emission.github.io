@@ -4,7 +4,7 @@ CO2 emissions from the burning of fossil fuels are the primary cause of global w
 
 Although there are plenty of other emissions that are emitted on this earth, including Methane, nitrous oxide, and CFCs, none compare to the emission of CO2, and we as humans are mostly to blame for this.
 
-For this analysis we will be focosing on CO2 Emissions and its effect on the world we live in as well as some key factors and stats that may play a role in the emission of CO2 globally.
+For this analysis we will be focusing on CO2 Emissions and its effect on the world we live in as well as some key factors and stats that may play a role in the emission of CO2 globally.
 
 For easy visualization, this project integrates MySQL with Python.
 
